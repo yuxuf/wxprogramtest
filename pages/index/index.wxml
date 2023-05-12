@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  Weixin
+  <view>hello world</view>
+  <image src="../../imgs/0.jfif" mode="widthFit"></image>
+  
+</view>
